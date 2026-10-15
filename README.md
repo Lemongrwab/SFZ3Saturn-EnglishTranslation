@@ -1,7 +1,7 @@
 # Street Fighter Zero 3 Saturn - English Translation
 
 
-This patch turns the Japanese Sega Saturn release of Street Fighter Zero 3 into an English version that looks and reads like an official Western release of Street Fighter Alpha 3. It uses the official English script and graphics of the PSP version, Street Fighter Alpha 3 MAX, and of the NAOMI arcade version, with new translations for everything that never existed in English.
+This patch turns the Japanese Sega Saturn release of Street Fighter Zero 3 into an English version that looks and reads like an official Western release of Street Fighter Alpha 3. It uses the official English script and graphics of the PSP version, Street Fighter Alpha 3 MAX, and of the NAOMI arcade version, with new translations for everything that never existed in English. The Unlocked Characters patch also makes Shin Gouki and Final Vega selectable from the start.
 
 
 FILES :
@@ -13,7 +13,7 @@ Street Fighter Zero 3 - English Translation 1.0.ssp is the standard version, to 
 
 Street Fighter Zero 3 - English Translation & Unlocked Characters 1.0.xdelta is the version with unlocked characters, to use with Delta Patcher or xdelta UI.
 
-All options give the same English game. The Unlocked Characters version also makes Shin Gouki and Final Vega selectable from the start.
+
 
 
 
