@@ -1,7 +1,5 @@
 # Street Fighter Zero 3 Saturn - English Translation
-SFZ3 Saturn - English Translation
 
-Street Fighter Zero 3 Saturn - English Translation
 
 This patch turns the Japanese Sega Saturn release of Street Fighter Zero 3 into an English version that looks and reads like an official Western release of Street Fighter Alpha 3. It uses the official English script and graphics of the PSP version, Street Fighter Alpha 3 MAX, and of the NAOMI arcade version, with new translations for everything that never existed in English.
 
