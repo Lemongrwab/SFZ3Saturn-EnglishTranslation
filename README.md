@@ -6,6 +6,7 @@ This patch turns the Japanese Sega Saturn release of Street Fighter Zero 3 into 
 
 FILES :
 
+
 Street Fighter Zero 3 - English Translation 1.0.xdelta is the standard version, to use with Delta Patcher or xdelta UI.
 
 Street Fighter Zero 3 - English Translation 1.0.ssp is the standard version, to use with Sega Saturn Patcher.
@@ -13,6 +14,7 @@ Street Fighter Zero 3 - English Translation 1.0.ssp is the standard version, to 
 Street Fighter Zero 3 - English Translation & Unlocked Characters 1.0.xdelta is the version with unlocked characters, to use with Delta Patcher or xdelta UI.
 
 All options give the same English game. The Unlocked Characters version also makes Shin Gouki and Final Vega selectable from the start.
+
 
 
 PATCHING INSTRUCTIONS :
@@ -39,16 +41,11 @@ Notes
 Never apply a patch to a disc image that is already patched.
 The 4MB Extended RAM Cartridge is required, like for the original game.
 
-
-CREDITS :
-
-Lemongrwab
-Claude - Opus 5.5
-
-
 RELEASE CHANGELOG
 
+
 Version 1.0
+
 Initial release.
 
 
@@ -75,6 +72,16 @@ On the character select screen, press START on Gouki to switch to Shin Gouki, an
 Press START on Vega to turn Final Vega on or off.
 A sound confirms the change, then pick the character with any attack button.
 This works in Arcade, VS and Training, the only modes where the game allows Final Vega.
+
+
+
+CREDITS :
+
+Lemongrwab
+Claude - Opus 5.5
+
+
+
 
 
 
